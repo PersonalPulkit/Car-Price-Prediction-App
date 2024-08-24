@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyApeUnoxGva45ZGqa-SVu34XJzUYAyXoC0',
-    appId: '1:1093598976902:web:fad5b023b17df5bcdeaa07',
-    messagingSenderId: '1093598976902',
-    projectId: 'carpredictionappai',
-    authDomain: 'carpredictionappai.firebaseapp.com',
-    storageBucket: 'carpredictionappai.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyArtJl6i3psmZc8XypBRFrwLoCwqdoN_LE',
-    appId: '1:1093598976902:android:4a89bda1e891b1a1deaa07',
-    messagingSenderId: '1093598976902',
-    projectId: 'carpredictionappai',
-    storageBucket: 'carpredictionappai.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCf7PQJwxgEE6N5CFir38u_ctsanmvHSXk',
-    appId: '1:1093598976902:ios:defd13148182214ddeaa07',
-    messagingSenderId: '1093598976902',
-    projectId: 'carpredictionappai',
-    storageBucket: 'carpredictionappai.appspot.com',
-    iosClientId: '1093598976902-0jub3eppiif9efp38ha5hek7vogst9me.apps.googleusercontent.com',
-    iosBundleId: 'com.example.ai',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCf7PQJwxgEE6N5CFir38u_ctsanmvHSXk',
-    appId: '1:1093598976902:ios:defd13148182214ddeaa07',
-    messagingSenderId: '1093598976902',
-    projectId: 'carpredictionappai',
-    storageBucket: 'carpredictionappai.appspot.com',
-    iosClientId: '1093598976902-0jub3eppiif9efp38ha5hek7vogst9me.apps.googleusercontent.com',
-    iosBundleId: 'com.example.ai',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyApeUnoxGva45ZGqa-SVu34XJzUYAyXoC0',
-    appId: '1:1093598976902:web:18c0caa156e0e266deaa07',
-    messagingSenderId: '1093598976902',
-    projectId: 'carpredictionappai',
-    authDomain: 'carpredictionappai.firebaseapp.com',
-    storageBucket: 'carpredictionappai.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 }
